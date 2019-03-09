@@ -1,0 +1,4 @@
+theme = "hugo-flex"
+baseURL = ""
+languageCode = "en-us"
+title = "Data Visualization 101"
