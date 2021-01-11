@@ -1,7 +1,7 @@
 ---
 title: "Sesión 1"
 author: "Dr. José Luis Manzanares Rivera"
-date: 2015-07-23T21:13:14-05:00
+date: 2021-01-11T21:09:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -14,9 +14,9 @@ library(tidyverse)
 
 
 > #### Programa: Maestría en Métodos para el Análisis de Politicas Públicas.
-> ##### **Semestre:** 1-2019
+> ##### **Semestre:** 1-2021
 > ##### **Horas:** 15. 
-> ##### **Organización por sesiones:** 6 Sesiones, 2 horas por sesión. 
+> ##### **Organización por sesiones:** 5 Sesiones, 3 horas por sesión. 
 > ##### **Curso-Taller:** Análisis Explorarorio de Datos: Implementación en R markdown.
 
 ### Presentación del curso.
