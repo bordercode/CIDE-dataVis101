@@ -23,7 +23,7 @@ library(tidyverse)
 
 El curso está diseñado para estudiar el uso de herramientas de análisis de datos en un entorno replicable con base en R markdown.
 
-La orientación empírica se enfoca en la evaluación de indicadores  en México.
+La orientación empírica se enfoca en la evaluación de indicadores de salud pública en México.
 
 **Pre-requisitos**. Conocimientos y habilidades necesarias:
 Es deseable contar con conocimientos previos de estadística básica y matemáticas básicas.
